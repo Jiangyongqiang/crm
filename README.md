@@ -16,18 +16,19 @@ CRM客户管理系统有成品可定制
  
 
 
-![输入图片说明](img/image.png)
+![输入图片说明](image.png)
  
 
-![输入图片说明](img/image%20(1).png)
+![输入图片说明](image%20(1).png)
 
-![输入图片说明](img/image%20(2).png)
+![输入图片说明](image%20(2).png)
 
-![输入图片说明](img/image%20(3).png)
+![输入图片说明](image%20(3).png)
 
-![输入图片说明](img/image%20(4).png)
+![输入图片说明](image%20(4).png)
 
 
-![输入图片说明](img/image%20(5).png)
+![输入图片说明](image%20(5).png)
+
 
  
